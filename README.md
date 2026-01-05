@@ -1,8 +1,6 @@
 
   # Payroll
 
-  This is a code bundle for Payroll. The original project is available at https://www.figma.com/design/CmVtlIMwkrHjR96grMMXyB/Payroll.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
